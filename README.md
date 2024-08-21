@@ -1,1 +1,1 @@
-# chatbox-ai
+# User friendly chatbox-ai
